@@ -1,2 +1,1 @@
-[]
-pkg update pkg upgrade 
+gitclone
